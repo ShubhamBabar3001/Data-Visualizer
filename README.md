@@ -1,4 +1,3 @@
-
 # Data Visualizer
 
 This Data Visualizer project is a GUI-based application built using Tkinter that allows users to load an Excel or CSV file and create customized visualizations based on the selected columns. The project uses Pandas for data handling and Matplotlib for generating the graphs. It's an easy-to-use tool for visually exploring relationships within your dataset.
